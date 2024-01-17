@@ -11,4 +11,4 @@
 
 ##
 
-- 📚 Atualmente estou estudando python e git
+- 📚 Atualmente estou ampliando meus conhecimentos em python e git
