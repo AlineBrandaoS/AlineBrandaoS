@@ -1,13 +1,13 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Hello World!!</h1></summary>
 </div>
 <!-- Presentation -->
 <p>
   Olá 👋, meu nome é Aline! Uma apaixonada por programação.
 
-  - 🌱 Atualmente estou fazendo faculdade de Analise e Desenvolvimento de Sistemas
+  - 🌱 Atualmente estou fazendo faculdade de Analise e Desenvolvimento de Sistemas e por fora fazendo cursos para expandir meus conhecimentos.
 
   - 🔭 Estou em busca da minha primeira oportunidade de emprego. 
 </p>
@@ -24,7 +24,8 @@
 </details>
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineBrandaoS&show_icons=true&theme=gotham)
+  <img align="center" width="400em" src="https://github-readme-stats.vercel.app/api?username=AlineBrandaoS&show_icons=true&theme=radical">  <img align="center" width="440em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBrandaoS&layout=compact&theme=radical">
+ 
 
 <!-- Portfolio -->
 ## Portfolio:
