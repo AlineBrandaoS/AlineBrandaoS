@@ -31,7 +31,6 @@ percepção mais apurada das coisas e para a resolução de problemas. \o/
 
 <!-- GIF -->
 <p align="left">
- <img align="center" src="https://giphy.com/gifs/80s-synthwave-aesthetic-84SFZf1BKgzeny1WxQ" width="360" height="480" frameBorder="0"></iframe><p><a >via GIPHY</a></p>
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
