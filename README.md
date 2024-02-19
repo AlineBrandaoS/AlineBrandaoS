@@ -9,14 +9,14 @@
 
   - 🌱 Atualmente estou fazendo faculdade de Analise e Desenvolvimento de Sistemas e por fora fazendo cursos para expandir meus conhecimentos.
 
-  - 🔭 Estou em busca da minha primeira oportunidade de emprego. 
+  - 🔭 Estou em busca da minha primeira oportunidade de emprego nessa área. 
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 um pouco sobre mim</summary>
   
-  - 💬 Tenho 19 anos atualmente moro no Brasil e estou passando por uma transição de carreira e observei que programação seria ideal pois,é uma área que demanda muitas vagas no mercado de trabalho e no momento estou obtendo conhecimento em python.  
+  - 💬 Tenho 19 anos atualmente moro no Brasil e estou passando por uma transição de carreira e observei que programação seria ideal pois, é uma área que demanda muitas vagas no mercado de trabalho e no momento estou obtendo conhecimento em python.  
 
   - ⚡ Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma 
   percepção mais apurada das coisas e para a resolução de problemas. \o/
