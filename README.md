@@ -16,7 +16,7 @@
 <details>
   <summary>👨‍💻 um pouco sobre mim</summary>
   
-  - 💬 Tenho 19 anos atualmente moro no Brasil. No momento estou obtendo conhecimento em python.  
+  - 💬 Tenho 19 anos atualmente moro no Brasil e estou passando por uma transição de carreira e observei que programação seria ideal pois,é uma área que demanda muitas vagas no mercado de trabalho. No momento estou obtendo conhecimento em python.  
 
   - ⚡ Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma 
   percepção mais apurada das coisas e para a resolução de problemas. \o/
