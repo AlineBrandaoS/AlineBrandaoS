@@ -23,6 +23,11 @@
 
 </details>
 
+<!-- links -->
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/S__linee/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aline-brandão-8b555a261/)
+
 <!-- GithubStats -->
   <img align="center" width="400em" src="https://github-readme-stats.vercel.app/api?username=AlineBrandaoS&show_icons=true&theme=radical">  <img align="center" width="440em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBrandaoS&layout=compact&theme=radical">
  
