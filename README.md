@@ -7,7 +7,7 @@
 <p>
   Olá 👋, meu nome é Aline! Uma apaixonada por programação.
 
-  - 🌱 Atualmente estou fazendo faculdade de Analise e Desenvolvimento de Sistemas e por fora fazendo cursos para expandir meus conhecimentos.
+  - 🌱 Atualmente estou fazendo faculdade de Analise e Desenvolvimento de Sistemas e por fora estou fazendo um curso de python da universidade de michigan.
 
   - 🔭 Estou em busca da minha primeira oportunidade de emprego nessa área. 
 </p>
