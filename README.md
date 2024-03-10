@@ -33,7 +33,6 @@
  
 
 <!-- Portfolio -->
-## Portfolio:
 
 <!-- GIF -->
 <p align="left">
