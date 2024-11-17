@@ -36,7 +36,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" height= "526" width="980" src="Q81V.gif" alt="Imagem">
+  <img align="center" height= "526" width="980" src="pixel-art-gif-Captivating-Pixel-Art-Scenes.gif" alt="Imagem">
 </p>
 
 
