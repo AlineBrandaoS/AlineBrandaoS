@@ -50,7 +50,7 @@
     <h3>🛠️ Tools & Technologies</h3>
     <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=git,flisk,nodejs"/>
     <h3>🗃️ Databases</h3>
-    <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=mysql,sql"/>
+    <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=mysql"/>
     <h3>🤖 Artificial Intelligence (in progress/learning)</h3>
     <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=azure"/>
     <h3>🎨 Design & Prototyping</h3>
