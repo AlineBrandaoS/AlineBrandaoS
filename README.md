@@ -7,7 +7,7 @@
 <p>
  Hello 👋, my name is Aline! I am passionate about programming.
 
-🌱 I am currently in the 3rd semester of the Systems Analysis and Development technologist program. In addition, I am taking a Generative AI course by Microsoft Azure through the “Escola do Trabalhador” program, in partnership with Microsoft, as well as a Machine Learning course from Stanford University.
+🌱 I am currently in the 3rd semester of the Systems Analysis and Development technologist program. In addition, I am taking a Generative AI course by Microsoft Azure through the “Escola do Trabalhador” program, in partnership with Microsoft and create Project personal.
 
 🔭 I am looking for my first opportunity in technology, with a strong interest in DevOps, Development, and Machine Learning.
 </p>
@@ -17,9 +17,9 @@
   <summary>👨‍💻 About Me</summary>
 - 💬 I’m 21 years old, currently living in Brazil, and transitioning into a tech career. I found in programming not only a strong job market but also an area that truly resonates with my interests and skills. I'm currently working on an educational project to strengthen my knowledge and put my skills into practice:
 
-  - **Frontend**: HTML, CSS, JavaScript, TypeScript  
-  - **Backend**: Python, Node.js, Java, C#, PHP, Go (Golang)  
-  - **DevOps**: Docker, YAML, Bash, Git, Terraform  
+  - **Frontend**: HTML, CSS, JavaScrip  
+  - **Backend**: Python, Node.js
+  - **framework**: Flisk,Django
   - **Other tools**: Figma, Markdown  
 
 - ⚡ I enjoy reading — whether it’s books or comics — watching movies, and playing games. I believe personal interests help sharpen perception and creativity — qualities that are essential in solving real-world problems through technology. \o/
@@ -45,12 +45,12 @@
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>💻 Programming Languages</h3>
-    <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=python,javascript,css,c#"/>
-    <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=golang,html,typescript,bash"/>
+    <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=python,javascript,css"/>
+    <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=html"/>
     <h3>🛠️ Tools & Technologies</h3>
-    <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=git,docker,terraform,nodejs,.net"/>
+    <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=git,flisk,nodejs"/>
     <h3>🗃️ Databases</h3>
-    <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=mysql,postgresql"/>
+    <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=mysql,sql"/>
     <h3>🤖 Artificial Intelligence (in progress/learning)</h3>
     <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=azure"/>
     <h3>🎨 Design & Prototyping</h3>
