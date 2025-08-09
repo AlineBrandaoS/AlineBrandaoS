@@ -7,7 +7,7 @@
 <p>
  Hello 👋, my name is Aline! I am passionate about programming.
 
-🌱 I am currently in the 3rd semester of the Systems Analysis and Development technologist program. In addition, I am taking a Generative AI course by Microsoft Azure through the “Escola do Trabalhador” program, in partnership with Microsoft and create Project personal.
+🌱 I am currently in the 3rd semester of the Systems Analysis and Development technologist program. In addition, I am taking a Generative AI course by Microsoft Azure through the “Escola do Trabalhador” program, in partnership with Microsoft and I am developing a personal project to solidify my knowledge.
 
 🔭 I am looking for my first opportunity in technology, with a strong interest in DevOps, Development, and Machine Learning.
 </p>
