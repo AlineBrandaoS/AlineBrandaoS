@@ -31,8 +31,8 @@
 
 <!-- GithubStats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlineBrandaoS&theme=radical&show_icons=true&hide_border=true" alt="Estatísticas do GitHub" style="width: 40%; display: inline-block;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBrandaoS&theme=radical&hide_progress=true&hide_border=true&layout=compact" alt="Linguagens mais usadas" style="width: 55%; display: inline-block;height: 170px;vertical-align: middle;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlineBrandaoS&theme=radical&show_icons=true&hide_border=true" alt="Estatísticas do GitHub" style="width: 35%; display: inline-block;vertical-align: middle"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBrandaoS&theme=radical&hide_progress=true&hide_border=true&layout=compact" alt="Linguagens mais usadas" style="width: 49%; display: inline-block;;vertical-align: middle;"/>
 </div>
 
 <!-- Portfolio -->
