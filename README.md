@@ -35,8 +35,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBrandaoS&theme=radical&hide_progress=true&hide_border=true&layout=compact" alt="Linguagens mais usadas" style="width: 49%; display: inline-block;;vertical-align: middle;"/>
 </div>
 
-<!-- Portfolio -->
+<!-- Projetos -->
+## 💻 Projects
 
+- 🐍[Automação-esocial](https://github.com/AlineBrandaoS/Automacao-Esocial) - Script em python utilizando Selenium
+
+##
 <!-- GIF -->
 <p align="left">
   <img align="center" height= "530" width="980" src="pixel-art-gif-Captivating-Pixel-Art-Scenes.gif" alt="Imagem">
