@@ -19,7 +19,7 @@
 
   - **Frontend**: HTML, CSS
   - **Backend**: Python
-  - **framework**: Flisk, Django
+  - **framework**: Flask, Selenium
   - **Other tools**: Figma, Markdown  
 
 - ⚡ I enjoy reading — whether it’s books or comics — watching movies, and playing games. I believe personal interests help sharpen perception and creativity — qualities that are essential in solving real-world problems through technology. \o/
@@ -51,9 +51,9 @@
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>💻 Programming Languages</h3>
-    <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=python,css"/>
-    <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=html"/>
+    <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=python"/>
     <h3>🛠️ Tools & Technologies</h3>
+    <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=html,css"/>
     <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=git,flask,django"/>
     <h3>🗃️ Databases</h3>
     <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=mysql,sql"/>
