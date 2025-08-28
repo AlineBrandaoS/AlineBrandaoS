@@ -36,9 +36,9 @@
 </div>
 
 <!-- Projetos -->
-## 💻 Projects
+## 💻 Personal Projects 
 
-- 🐍[Automação-esocial](https://github.com/AlineBrandaoS/Automacao-Esocial) - Script em python utilizando Selenium
+- 🐍 [Automação-esocial](https://github.com/AlineBrandaoS/Automacao-Esocial) - Script em python utilizando Selenium.
 
 ##
 <!-- GIF -->
