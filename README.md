@@ -7,7 +7,7 @@
 <p>
  Hello 👋, my name is Aline! I am passionate about programming.
 
-🌱 I am currently in the 3rd semester of the Systems Analysis and Development technologist program. In addition, I am taking a Generative AI course by Microsoft Azure through the “Escola do Trabalhador” program, in partnership with Microsoft and I am developing a personal project to solidify my knowledge.
+🌱 I am currently in the 3rd semester of the Systems Analysis and Development technologist program. In addition, I am taking a MLOps Specialization | Machine Learning Operations and Specialization in Building Cloud Computing Solutions at Scale by Duke University, in partnership with Coursera and I am developing a project which involves all the knowledge that I applied theoretically in one place.
 
 🔭 I am looking for my first opportunity in technology, with a strong interest in DevOps, Development, and Machine Learning.
 </p>
