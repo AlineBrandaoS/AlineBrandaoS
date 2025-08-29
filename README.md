@@ -39,6 +39,7 @@
 ## 💻 Personal Projects 
 
 - 🐍 [Automação-esocial](https://github.com/AlineBrandaoS/Automacao-Esocial) - Script em python utilizando Selenium.
+- 
 
 ##
 <!-- GIF -->
@@ -53,12 +54,12 @@
     <h3>💻 Programming Languages</h3>
     <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=python"/>
     <h3>🛠️ Tools & Technologies</h3>
-    <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=html,css"/>
+    <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=html,css,vscode"/>
     <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=git,flask,django"/>
     <h3>🗃️ Databases</h3>
-    <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=mysql,sql"/>
+    <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=mysql"/>
     <h3>🤖 Artificial Intelligence (in progress/learning)</h3>
-    <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=azure"/>
+    <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=aws"/>
     <h3>🎨 Design & Prototyping</h3>
     <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=figma,markdown"/>
   </div>
