@@ -58,7 +58,7 @@
     <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=git,flask,django"/>
     <h3>🗃️ Databases</h3>
     <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=mysql"/>
-    <h3>🤖 Artificial Intelligence (in progress/learning)</h3>
+    <h3>☁️ Cloud Computing(in progress/learning)</h3>
     <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=aws"/>
     <h3>🎨 Design & Prototyping</h3>
     <img align="center" href="https://skillicons.dev" src="https://skillicons.dev/icons?i=figma,markdown"/>
