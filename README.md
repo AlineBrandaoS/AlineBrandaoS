@@ -29,12 +29,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aline-brandão-8b555a261/)
 
-<!-- GithubStats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlineBrandaoS&theme=radical&show_icons=true&hide_border=true" alt="Estatísticas do GitHub" style="width: 35%; display: inline-block;vertical-align: middle"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBrandaoS&theme=radical&hide_progress=true&hide_border=true&layout=compact" alt="Linguagens mais usadas" style="width: 49%; display: inline-block;;vertical-align: middle;"/>
-</div>
-
 <!-- Projetos -->
 ## 💻 Personal Projects 
 
