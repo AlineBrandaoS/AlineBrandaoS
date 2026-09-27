@@ -33,6 +33,7 @@
 ## 💻 Personal Projects 
 
 - 🐍 [Automação-esocial](https://github.com/AlineBrandaoS/Automacao-Esocial) - Script em python utilizando Selenium.
+- ✅ [Validador-documentos](https://github.com/AlineBrandaoS/validador-documentos) - Script em python utilizando IA para realizar validação de documentação.
 
 ##
 <!-- GIF -->
